@@ -1,0 +1,22 @@
+ .rmdgithub {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  position:relative;
+  border-left: 6px solid green;
+  background-color: #D9FFDF;
+}
+
+.rmdgithub:before {
+    content: "\f09b";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top:0px;
+    font-size: 45px;
+ }
+
+.question {
+  border-left: 6px solid blue;
+  background-color: #D9FFFF;
+  text-indent: 5%;
+}
