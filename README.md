@@ -1,6 +1,6 @@
 # R for Data Science - Solutions
 
-This repository contains the solutions of [R for Data Science - Solutions](https://github.com/abenedetti/r4ds-solutions) book. The book is built using [bookdown](https://bookdown.org/).
+This repository contains the solutions of Garret’s and Hadley’s [R for Data Science - Solutions](https://github.com/abenedetti/r4ds-solutions). The book is built using [bookdown](https://bookdown.org/).
 
 The book can be rendered with this statement `bookdown::render_book('index.Rmd', 'all')`.
 
